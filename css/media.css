@@ -1,0 +1,10 @@
+@media(max-width:600px){
+/* section2 -- div2*/
+#section-blue-div {
+    margin: 0px;
+}
+/* section-5 */
+    #team-div{
+        margin-left: 0px;
+    }
+}

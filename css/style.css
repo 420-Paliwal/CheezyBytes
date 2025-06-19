@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* section2 -- div2*/
+#section1 {
+    border-top: 20px solid #fffafa;
+    background-color: rgba(0, 0, 0, 0.901);
+}
+#section-blue-div {
+    margin: 100px 50px;
+}
+#section-blue-h3,
+#section-blue-p {
+    color: aliceblue;
+}
+#section-blue-h3 {
+    font-size: 70px;
+    font-weight: 700;
+}
+#section-blue-p {
+    margin: 20px 0;
+    font-size: 18px;
+}
+#section-orange-div {
+    margin: 18px 0;
+}
+#img-orange {
+    width: 100%;
+}
+/* section3 --div3 */
+#section-about {
+    height: auto;
+    border-top: 20px solid #fffafa;
+    background-color: rgba(0, 0, 0, 0.901);
+}
+#section2-div-H2-P{
+    margin-top: 10%;
+    margin-left: 10% ;
+}
+#section2-div-img{
+    margin: 6% 0;
+    width: 700px;
+}
+#section2-mainimg {
+    height: 500px;
+    width: 100%;
+}
+
+#section-about-h2,
+#section-about-p {
+    color: white;
+}
+#section-about-h2 {
+    font-size: 60px;
+    font-weight: 700;
+}
+#section-about-p{
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px 0;
+}
+/* today start */
+/* section 4 - div 4 */
+#services{
+    border-top: 20px solid snow;
+    background-color: rgba(0, 0, 0, 0.901);
+}
+#services-h1,#services-p{
+    color: aliceblue;
+}
+#services-h1{
+    margin-top: 20PX;
+    font-size: 60px;
+    font-weight: 700;
+}
+#services-p{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+#service-col-1{
+    margin-left: 60px;
+}
+#service-img1,#service-img3{
+    margin-top: 30px;
+    margin-left: 10px;
+    height: 260px;
+}
+#service-img2{
+ margin-left: 10px;
+ height: 360px;
+}
+/* section-5 */
+#section-5{
+    background-color: rgba(0, 0, 0, 0.901);
+  border-top: 20px solid snow;
+}
+#booking-h1{
+margin: 20px 0;
+color: snow;
+font-weight: 700;
+}
+#team-div{
+    margin-left: 200px;
+}
+#team-h1{
+    margin: 20px;
+    font-weight: 700;
+    color: snow;
+}
+#team-p{
+    text-align: justify;
+    padding: 30px;
+    font-size: 20px;
+}
+#team-img{
+    margin-bottom: 20px;
+    float: left;
+}
+#team-name{
+    margin-top: 70px;
+    margin-left: 150px;
+    color: aliceblue;
+}
+/* footer */
+footer{ 
+    background-color: rgba(0, 0, 0, 0.901);
+    border-top: 20px solid snow;
+    color: white;
+}
+#space-even-div{
+   display: flex;
+   justify-content: space-evenly;
+}
+#footer-h3{
+    margin-top: 20px;
+    font-size: 2.2rem;
+} 
+.footer-ul{
+    display: flex;
+    flex-direction: column;
+}
+.footer-a{
+    line-height: 40px;
+    color: #fffafa;
+}
+#piz-ul,.footer-ul-3{
+    margin-top: 18px;
+}
+#ig-icao,#fa-icao,#li-icao,#u-icao,#twi-icao{
+    font-size: 22px;
+}
+#ig-icao{
+    color: rgba(255, 0, 140, 0.515);
+}
+#u-icao{
+    color: red;
+}
+#twi-ica,#li-icao,#fa-icao{
+    color: blue;
+}
